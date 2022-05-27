@@ -15,7 +15,7 @@ Kemudian saya menambahkan file baru dengan nama ImplementasiBootstrap.html mengg
 Menambahkan sebuah folder js dengan perintah: ```git add js```. Setelah berhasil, commit folder dengan perintah: ```git commit -m "Menambahkan folder js"``` , Dilanjutkan dengan perintah: ```git push```
 
 # Membuat branch dan melakukan merge
-Saya akan menambahkan sebuah branch(cabang) dengan nama tampilan menggunakan perintah: ```git checkout -b tampilan``` .Kini head pada repo ini berpindah dari main menuju tampilan dan dapat dilihat pada tulisan berwarna biru disebelah kanan. Selanjutnya saya membuat sebuah folder yang bernama css pada branch tampilan. Lalu ketikkan perintah: ```git add .``` dilanjutkan dengan perintah: ```git commit -m "Menambahkan folder style.css"``` dilanjutkan dengan perintah: ```git push --set-upstream origin tampilan```
+Saya akan menambahkan sebuah branch(cabang) dengan nama tampilan menggunakan perintah: ```git checkout -b tampilan``` .Kini head pada repo ini berpindah dari main menuju tampilan dan dapat dilihat pada tulisan berwarna biru disebelah kanan. Selanjutnya saya membuat sebuah folder yang bernama css pada branch tampilan. Lalu ketikkan perintah: ```git add .``` dilanjutkan dengan perintah: ```git commit -m "Menambahkan folder css"``` dilanjutkan dengan perintah: ```git push --set-upstream origin tampilan```
 
 Menambahkan folder lagi yaitu img dengan perintah: ```git add img``` dilanjutkan dengan perintah: ```git commit -m "Menambahkan img"``` dilanjutkan dengan perintah: ```git push```
 
